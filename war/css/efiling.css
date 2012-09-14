@@ -1,0 +1,89 @@
+/** Add css rules here for your application. */
+.activity-letter-results {
+	border: 1px dashed #CAE1FF;
+}
+
+#bug-form {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#copyright {
+    text-decoration: underline;
+}
+
+.document-search-results-table {
+	border: 1px dashed #CAE1FF;
+}
+
+#footer {
+    background: none repeat scroll 0 0 #CCCCCC;
+    float: right;
+    padding: 5px 10px;
+}
+
+.link-element {
+	color: blue;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#logout {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#main-container {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+#main-table {
+	border: 0px;
+	cellpadding: 0px;
+	cellspacing: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+#version {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #777777;
+	margin: 40px 0px 70px;
+	text-align: center;
+}
+
+.sendButton {
+	display: block;
+	font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+	width: 400px;
+}
+
+.dialogVPanel {
+	margin: 5px;
+}
+
+.serverResponseLabelError {
+	color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+	margin: 15px 6px 6px;
+}
